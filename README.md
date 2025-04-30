@@ -5,3 +5,5 @@ Instrukcja ruchów (wielkość znaku nie ma znaczenia):
 * ruch w górę: [identyfikator_samolotu]/[liczba_ruchów]
 * ruch w doł: [identyfikator_samolotu]\[liczba_ruchów]
 * anulowanie rozkazu: [identyfikator_samolotu]C
+
+Dominik Gurczyński 203854, Norbert Harasim 203151
