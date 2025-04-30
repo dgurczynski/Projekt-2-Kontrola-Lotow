@@ -1,3 +1,5 @@
+// Projekt 2 Zadanie 7 - Dominik Gurczyński 203854, Norbert Harasim 203151
+
 #include <iostream>
 #include <vector>
 #include <string>
